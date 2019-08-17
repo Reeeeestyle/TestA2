@@ -1,0 +1,32 @@
+name: Test-A2
+author: Reeeeestyle
+version: 1.2.1
+main: me.Reeeeestyle.A1.Alpha1
+description: Test Alpha 2
+
+commands:
+    giveitem:
+        usage: /<command>
+        description: "Test A2"
+        permission: TestA2.giveitem
+        permission-message: You don't have permission to do that!
+    inventory:
+        usage: /<command>
+        description: "Test A2"
+        permission: TestA2.inventory
+        permission-message: You don't have permission to do that!
+    warp:
+        usage: /<command>
+        description: "Test A2"
+        permission: TestA2.warp
+        permission-message: You don't have permission to do that!
+    setwarp:
+        usage: /<command>
+        description: "Test A2"
+        permission: TestA2.setwarp
+        permission-message: You don't have permission to do that!
+    delwarp:
+        usage: /<command>
+        description: "Test A2"
+        permission: TestA2.delwarp
+        permission-message: You don't have permission to do that!
